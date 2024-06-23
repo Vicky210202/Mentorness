@@ -4,7 +4,7 @@ Welcome to my internship portfolio! This repository showcases projects completed
 
 ## Projects Overview
 ### Data Analyst Internship Projects
-  - **[Corona Virus Analysis using SQL](Mentorness-Data-Analyst-Project-1)** 
+  - **[Corona Virus Analysis using SQL]([Mentorness-Data-Analyst-Project-1](https://github.com/Vicky210202/Mentorness-Data-Analyst-Project-1/tree/e89bb0ad239e97f2e9810f8f2c8d37f765c66a2c))** 
   - **[NREGA Analysis using Power BI](Mentorness-Data-Analyst-Project-2)** 
 
 ### Machine Learning Internship Projects  
