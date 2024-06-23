@@ -1,0 +1,12 @@
+[submodule "DA - 1 Corona Virus Analysis with SQL"]
+	path = DA - 1 Corona Virus Analysis with SQL
+	url = https://github.com/Vicky210202/Mentorness-Data-Analyst-Project-1.git
+[submodule "DA - 2 NREGA Analysis with Power BI Tableau"]
+	path = DA - 2 NREGA Analysis with Power BI Tableau
+	url = https://github.com/Vicky210202/Mentorness-Data-Analyst-Project-2.git
+[submodule "ML - 1 Salary Predictions"]
+	path = ML - 1 Salary Predictions
+	url = https://github.com/Vicky210202/Mentorness-ML-Project-1
+[submodule "ML - 2 Fastag Fraud Detection"]
+	path = ML - 2 Fastag Fraud Detection
+	url = https://github.com/Vicky210202/Mentorness-ML-Project-2.git
