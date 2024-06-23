@@ -4,7 +4,7 @@ Welcome to my internship portfolio! This repository showcases projects completed
 
 ## Projects Overview
 
-- **[Corona Virus Analysis using SQL](./Corona_Virus_Analysis/README.md)** (Data Analyst Internship Project - 1)
+- **[Corona Virus Analysis using SQL](README.md)** (Data Analyst Internship Project - 1)
 - **[NREGA Analysis using Power BI](./NREGA_Analysis_Power_BI/README.md)** (Data Analyst Internship Project - 2)
 - **[Salary Predictions of Data Professions](./Salary_Predictions_Data_Professions/README.md)** (Machine Learning Internship Project - 1)
 - **[Fastag Fraud Detection using Machine Learning](./Fastag_Fraud_Detection_ML/README.md)** (Machine Learning Internship Project - 2)
