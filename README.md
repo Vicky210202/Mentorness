@@ -1,5 +1,5 @@
 ---
-# 🌐 Mentornes Internship Portfolio 🚀
+# 🌐 Mentorness Internship Portfolio 🚀
 
 Welcome to my internship portfolio! This repository showcases projects completed during my internships in Data Analysis and Machine Learning. Each project focuses on distinct aspects of data exploration, analysis, and machine learning modeling.
 
